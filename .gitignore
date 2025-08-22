@@ -16,3 +16,8 @@ __pycache__/
 # dbt compiled files
 dbt_project/target/
 dbt_project/dbt_modules/
+
+# Ignore raw data
+data/raw/
+*.env
+
